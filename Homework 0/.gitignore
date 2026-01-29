@@ -1,0 +1,4 @@
+tinylang/build
+test/*.o
+test/*.bin
+test/*.txt
